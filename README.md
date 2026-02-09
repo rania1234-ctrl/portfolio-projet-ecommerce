@@ -69,7 +69,7 @@ Le site permet de présenter différents produits cosmétiques
 
 ---
 
-## 🟥 Captures d’écran (aperçu)
+## 🟥 Captures d’écran 
 
 <p align="center">
   <img src="images/acceuil.png" width="230" alt="Accueil">
