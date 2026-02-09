@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/accueil.png" width="750" alt="Accueil - Boutique de maquillage">
+  <img src="images/acceuil.png" width="750" alt="Accueil - Boutique de maquillage">
 </p>
 
 <h1 align="center">💄 Projet E-commerce – Boutique de Maquillage</h1>
@@ -72,7 +72,7 @@ Le site permet de présenter différents produits cosmétiques
 ## 🟥 Captures d’écran (aperçu)
 
 <p align="center">
-  <img src="images/accueil.png" width="230" alt="Accueil">
+  <img src="images/acceuil.png" width="230" alt="Accueil">
   <img src="images/categories.png" width="230" alt="Catégories">
   <img src="images/produits.png" width="230" alt="Produits">
 </p>
